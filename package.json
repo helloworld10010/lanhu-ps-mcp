@@ -1,0 +1,11 @@
+{
+  "name": "lanhu-ps-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "lanhu-ps-mcp": "./index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
